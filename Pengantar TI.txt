@@ -3,5 +3,4 @@ Computting
 1.Processing,Communication,automatting task,solving problem.
 Iot=Internet of think
 Ciikal bakal komputer itu berasal dari matematika
-Bla bla bla.....
-Commit= save
+
